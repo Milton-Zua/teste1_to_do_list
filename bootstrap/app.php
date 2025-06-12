@@ -19,3 +19,4 @@ $app = Application::configure(basePath: dirname(__DIR__))
     })
     ->create();
 
+return $app;
